@@ -29,6 +29,10 @@
 }
 
 #loading ul  li:hover {
-	background-color:  rgba(100, 100, 100, 0.3);
+	background-color:  #fafafa;
 	cursor: pointer;
+}
+
+#loading span {
+	font-weight: bold;
 }
